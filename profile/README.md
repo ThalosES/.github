@@ -1,59 +1,84 @@
-# 🗡️ Thalos Bots 🗡️
+# ⚡ Thalos — Reactive Systems by Design 
 
-*Short and quick*👋  
-We are a group on independent developers that get together to test-out the state of art and develop fun projects, along-side professional software products.
+Welcome!  
+We are a team of independent developers specializing in **full-stack reactive apps**, real-time **dashboards**, and resilient systems — all powered by **Elixir**, **Phoenix LiveView**, and the **BEAM** ecosystem.
 
-## How to contribute?
+We build for performance, simplicity, and fault tolerance — helping teams ship fast without sacrificing long-term maintainability.
 
-Our workstyle follows the principles described [in this video](https://www.youtube.com/watch?v=WgV6M1LyfNY&t=301s) by `No Boilerplate`
+---
 
-1. **Github repo as ONLY source of truth**:
-   After going though all productivity tools availables phases: Notion, JIRA, Obsidian...
-   We came to the conclusion that tools only needed 2 characteristics to be productivity friendly:
+## 💡 What We Do
 
-   - Just enough tooling/indicators, not too much, not too few
-   - Everything related to a project must be avaible in the same space
-     Admin overhead and _JIRA syndrom_ was definetly killing our motivation, so just keep
+- **Full-stack Reactive Apps**  
+  From MVPs to full-scale platforms — we deliver real-time, server-rendered experiences using Phoenix LiveView and TailwindCSS.
 
-2. **Only ONE repo per project**: Following the previous step, if all the information must be available in the same space, you should not considering splitting the repo into multiple.
+- **Interactive Dashboards**  
+  Live dashboards that sync instantly with your data using PubSub and telemetry.
 
-**Internally**, we belive in `Internal OpenSource` as making all the content contribuitable for every member of the organization
+- **Distributed Systems & Architecture**  
+  Fault-tolerant design, background processing (Oban), and scalable systems using the BEAM VM.
 
-## Example Repo
+---
 
-> ⚠️ Currently, example repo in in progress, refer to the [original repo at Boilerplate](https://github.com/0atman/noboilerplate)
+## 🧪 Our Ethos: Internal Open Source
 
-Feel free to fork our [example repo](https://github.com/ThalosES/example-repo) to understand the basics of our workflows and how we want things done
+Inspired by [No Boilerplate](https://www.youtube.com/watch?v=WgV6M1LyfNY&t=301s), our workflow is designed for clarity and contribution:
 
-</details>
+1. **GitHub is our single source of truth**  
+   We’ve tried it all — JIRA, Notion, Obsidian... none beat a clean GitHub repo where code, issues, and docs live together.
+
+2. **One repo per project**  
+   Everything — code, specs, discussion — stays unified. No splitting unless absolutely necessary.
+
+3. **Internal Open Source**  
+   All projects are cross-contributable across our team. Contributions are welcome, and we value clarity, simplicity, and small PRs.
+
+---
+
+## 🔧 Example Repo
+
+Get a feel for how we work:
+
+> 🚧 **In Progress:**  
+> Check out our [example repo](https://github.com/ThalosES/example-repo) for templates and workflow patterns.  
+> Or refer to [NoBoilerplate’s original](https://github.com/0atman/noboilerplate) for inspiration.
+
+---
 
 <details>
-  <summary><h2>Projects</h2></summary>
+  <summary><h2>🛠️ Projects</h2></summary>
 
-### [Vinted-rs](https://github.com/ThalosBots/vinted-rs)
+### [Vinted-rs](https://github.com/ThalosBots/vinted-rs) — Rust 🦀
 
-A complete [Vinted](https://vinted.nl/) API-Wrapper in Rust 🦀
+A complete unofficial [Vinted](https://vinted.nl/) API wrapper written in Rust.  
+Used internally in bots and dashboards — open for community usage.
 
 ![Crates.io Total Downloads](https://img.shields.io/crates/d/vinted-rs?logo=rust&color=orange)
 
 </details>
 
-### 📄 License
+---
 
-We look forward to your contributions and hope you find our projects valuable.
+## 📄 License
 
-> [!NOTE]
-> Software made public is intended to be used in our commercial products, pay attention to each repo's license
-> Currently, all the code and docs made public are available under the MIT License. Please review the license file inside each project for more details.
+We love open tools — and many of our components are public and free to use.
 
+> [!NOTE]  
+> Some of our public code is used in commercial products. Check the license file in each repo.  
+> Unless stated otherwise, code and docs are under the **MIT License**.
 
-### Thalos Team ⚔️
+---
 
-<a href="mailto:info@thalos.es">
-<img alt="Static Badge" src="https://img.shields.io/badge/contact-us?style=social&logo=gmail">
-</a>
+## 🤝 Let's Work Together
 
-<br>
+Want a LiveView dashboard or Elixir-powered backend that scales like crazy?
+
+📬 **[info@thalos.es](mailto:info@thalos.es)**  
+We’re open to collaboration, consulting, or just chatting Elixir.
+
+---
+
+### ⚔️ Thalos Team
 
 <a href="https://github.com/ThalosBots/vinted-rs/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ThalosES/vinted-rs" alt="Made with [contrib.rocks](https://contrib.rocks)"/>
